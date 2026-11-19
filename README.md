@@ -27,7 +27,7 @@ Copy `IFCA_GUI_xx.py` to the same directory and run it. `xx` is either `bh` (Bec
 
 Tutorial notebooks are in Jupyter Notebook format (`.ipynb`) and require a Jupyter environment (such as Google Colab) to read.
 
-For loading experimentally obtained photon data, it is convenient to use [*phconvert*](https://photon-hdf5.github.io/phconvert)[1] (Note: Currently, our codes are not compatible with `phconvert 0.10.x`. Please use `phconvert 0.9.1`.) The GUI scripts requires `phconvert` and `matplotlib`.
+For loading experimentally obtained photon data, it is convenient to use [*phconvert*](https://photon-hdf5.github.io/phconvert)[1]. (Note: Currently, our codes are not compatible with `phconvert 0.10.x`. Please use `phconvert 0.9.1`.) The GUI scripts requires `phconvert` and `matplotlib`.
 
 [1] A. Ingargiola et al., Biophys. J. 110, 26-33 (2016).
 
